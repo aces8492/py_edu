@@ -9,3 +9,6 @@ Study of Python3
 
 #Nov.1,2017
 -(scope)
+
+#Nov.2,2017
+-(class)
