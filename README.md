@@ -12,3 +12,6 @@ Study of Python3
 
 #Nov.2,2017
 -(class)
+
+#Nov.3,2017
+-(class inheritance)
