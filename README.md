@@ -15,3 +15,6 @@ Study of Python3
 
 #Nov.3,2017
 -(class inheritance)
+-(xml contrall)
+-xml parser作成時、ファイル名をxml.pyにしていたが、xml.etree.ElementTreeというパッケージと名前が重複してしまうため名前の変更をした
+
