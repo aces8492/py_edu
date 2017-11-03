@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configinfo>
+<basic target = "altera" consttype = "latency" di = "" pipeout = "" />
+<adjust type = "partialmin" addonly = "" effect = "true" idle = "hmax" />
+<delaygen type = "ct" hdmux = "true" sdreg = "" />
+<maxconst maxdelay = "sta" maxidle = "true" />
+</configinfo>
