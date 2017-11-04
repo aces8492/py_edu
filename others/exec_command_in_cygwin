@@ -1,0 +1,1 @@
+gcc use_python.c -I/usr/include/python2.7 -L/usr/lib/python2.7/config -lpython2.7
