@@ -23,4 +23,5 @@ dir 'basic' is study of basic style of python3 - ref."Python3基礎文法" - htt
 #Nov.5,2017
 -(module, package, exception, list) 
 
-
+#Nov.5,2017
+-(set)
