@@ -16,12 +16,12 @@ class AdminUser(User):
         super().__init__(name)
         self.age = age
 
-        #before the overwrite of parent property
+        #before the override of parent property
         print("to called name using super() in childern class is {0}".format(self.name))
 
-        #after the overwrite of parent property
+        #after the override of parent property
         self.name = "Endo"
-        print("to called name using super() after the overwrite is {0}".format(self.name))
+        print("to called name using super() after the override is {0}".format(self.name))
 
     def say_hello(self):
         print("Hello!! {0} age:{1}".format(self.name,self.age))
@@ -40,7 +40,7 @@ bob.say_hi()
 print(bob.name)
 #instance method of sab class
 bob.say_hello()
-#it overwrite parent method 
+#it override parent method 
 bob.say_hi()
 
 
