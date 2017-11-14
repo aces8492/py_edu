@@ -25,3 +25,9 @@ dir 'basic' is study of basic style of python3 - ref."Python3基礎文法" - htt
 
 #Nov.5,2017
 -(set)
+
+#Nov.10,2017
+-(iterator, generator)
+
+#Nov.15,2017
+-(map,Lambda)

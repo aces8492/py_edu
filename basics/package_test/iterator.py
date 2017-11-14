@@ -16,10 +16,11 @@ for score in scores:
 
 "make generator"
 def get_infinite():
-    i = 0
-    while True:
-       yield i*2
-        i += 1
+    #i = 0
+    #while True:
+    for i in range(0,6):
+        yield i*2
+        #i += 1
 
 g = get_infinite()
 

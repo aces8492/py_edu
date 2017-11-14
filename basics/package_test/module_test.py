@@ -1,4 +1,4 @@
-#this module used in 'module_division.py'
+#this module used in 'import.py'
 
 class User:
     def __init__(self,name):
