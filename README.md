@@ -31,3 +31,8 @@ dir 'basic' is study of basic style of python3 - ref."Python3基礎文法" - htt
 
 #Nov.15,2017
 -(map,Lambda)
+
+#Nov.19,2017
+basics is complete ?
+-(Lambda, Comprehension_notation)
+-リスト型のイテレータへの自動変換が便利だが柔軟すぎて少し気持ちが悪い
