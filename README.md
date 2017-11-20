@@ -1,4 +1,5 @@
 Study of Python3
+
 dir 'basic' is study of basic style of python3 - ref."Python3基礎文法" - https://qiita.com/Fendo181/items/a934e4f94021115efb2e#python3%E3%82%92%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6
 
 
