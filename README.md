@@ -37,3 +37,8 @@ dir 'basic' is study of basic style of python3 - ref."Python3基礎文法" - htt
 basics is complete ?
 -(Lambda, Comprehension_notation)
 -リスト型のイテレータへの自動変換が便利だが柔軟すぎて少し気持ちが悪い
+
+#Nov.25,2017
+add application
+-(fibonacci, prewitt-filter)
+-配列をイコールで結ぶと値渡しではなく浅いコピー、参照渡しになる(深いコピーcopy.deepを使う)
