@@ -1,6 +1,6 @@
 # Study of Python3
 
-## dir 'basic'  
+## dir _'basic'_  
 study of basic style of python3 - ref."Python3基礎文法" - https://qiita.com/Fendo181/items/a934e4f94021115efb2e#python3%E3%82%92%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6
 
 
@@ -30,7 +30,9 @@ basics is complete ?
 -(Lambda, Comprehension_notation)  
 -リスト型のイテレータへの自動変換が便利だが柔軟すぎて少し気持ちが悪い
 
-## dir application
+## dir _'application'_
+making small size application using python3
+
 ### Nov.25,2017
 add application
 -(fibonacci, prewitt-filter)
