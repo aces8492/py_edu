@@ -38,3 +38,7 @@ making small size application using python3
 add application
 -(fibonacci, prewitt-filter)
 -配列をイコールで結ぶと値渡しではなく浅いコピー、参照渡しになる(深いコピーcopy.deepを使う)
+
+### Jun.20.2018
+add application
+-久々の更新、codeiqで作ったプログラムと勉強のプログラムをいくつか追加, otherには作成途中のタイマーあり
